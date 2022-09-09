@@ -1,4 +1,4 @@
-# monitoring-kubernetes-with-prometheus
+# monitoring-comic-box-app-with-prometheus
 
 This repository uses Prometheus along with Grafana, AlertManager and Slack to monitor the Comicbox Application, Redis and other Resources deployed on Kubernetes.
 
