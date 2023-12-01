@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:21.2-alpine3.18
 RUN mkdir /var/node
 WORKDIR /var/node
 ADD . /var/node
